@@ -6,12 +6,13 @@ A personal learning repository covering core JavaScript concepts through organiz
 
 | Chapter | Topic |
 |---------|-------|
-| `chapter_01_Basics` | Introduction, setup verification, and basic scripts |
-| `chapter_02_Javascript_Concepts` | Core JavaScript concepts and variables |
-| `chapter_03_Identifier_Literals` | Identifiers, naming conventions, comments, and VS Code shortcuts |
-| `chapter_04_Variable_Hoisting` | `var`, `let`, `const`, scope, and hoisting behavior |
-| `chapter_05_Literal` | Literals: strings, numbers, `null`, `undefined`, and template literals |
-| `chapter_06_Operator` | Arithmetic, comparison, logical, ternary, increment/decrement, and other operators |
+| [`chapter_01_Basics`](chapter_01_Basics/README.md) | Introduction, setup verification, and basic scripts |
+| [`chapter_02_Javascript_Concepts`](chapter_02_Javascript_Concepts/README.md) | Core JavaScript concepts and variables |
+| [`chapter_03_Identifier_Literals`](chapter_03_Identifier_Literals/README.md) | Identifiers, naming conventions, comments, and VS Code shortcuts |
+| [`chapter_04_Variable_Hoisting`](chapter_04_Variable_Hoisting/README.md) | `var`, `let`, `const`, scope, and hoisting behavior |
+| [`chapter_05_Literal`](chapter_05_Literal/README.md) | Literals: strings, numbers, `null`, `undefined`, and template literals |
+| [`chapter_06_Operator`](chapter_06_Operator/README.md) | Arithmetic, comparison, logical, ternary, increment/decrement, and other operators |
+| [`chapter_07_If_else`](chapter_07_If_else/README.md) | Conditional statements with `if`, `else if`, and `else` |
 
 ## How to Run
 
