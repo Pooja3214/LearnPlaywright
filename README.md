@@ -15,6 +15,7 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_07_If_else`](chapter_07_If_else/README.md) | Conditional statements with `if`, `else if`, and `else` |
 | [`chapter_08_Switch_Statement`](chapter_08_Switch_Statement/README.md) | `switch` statements, cases, break, default, and real-time examples |
 | [`chapter_09_UserInput`](chapter_09_UserInput/README.md) | Taking user input via browser `prompt`, Node.js `readline`, and `prompt-sync` |
+| [`chapter_10_Loops`](chapter_10_Loops/README.md) | `for`, `while`, `do...while`, `for...of`, `for...in`, and loop-related interview questions |
 
 ## How to Run
 
