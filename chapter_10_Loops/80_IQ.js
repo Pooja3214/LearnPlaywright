@@ -4,4 +4,4 @@ do {
     i--;
 } while (i > 0);
 
-//output: 0
+//output: 0, because it will execute once then check the condition.
