@@ -16,6 +16,7 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_08_Switch_Statement`](chapter_08_Switch_Statement/README.md) | `switch` statements, cases, break, default, and real-time examples |
 | [`chapter_09_UserInput`](chapter_09_UserInput/README.md) | Taking user input via browser `prompt`, Node.js `readline`, and `prompt-sync` |
 | [`chapter_10_Loops`](chapter_10_Loops/README.md) | `for`, `while`, `do...while`, `for...of`, `for...in`, and loop-related interview questions |
+| [`chapter_11_Arrays`](chapter_11_Arrays/README.md) | Array creation, accessing, adding/removing, searching, iterating, and transforming |
 
 ## How to Run
 
