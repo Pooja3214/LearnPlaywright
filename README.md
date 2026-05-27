@@ -17,6 +17,7 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_09_UserInput`](chapter_09_UserInput/README.md) | Taking user input via browser `prompt`, Node.js `readline`, and `prompt-sync` |
 | [`chapter_10_Loops`](chapter_10_Loops/README.md) | `for`, `while`, `do...while`, `for...of`, `for...in`, and loop-related interview questions |
 | [`chapter_11_Arrays`](chapter_11_Arrays/README.md) | Array creation, accessing, adding/removing, searching, iterating, and transforming |
+| [`chapter_12_Funtions`](chapter_12_Funtions/README.md) | Function declarations, expressions, arrow functions, parameters, and return values |
 
 ## How to Run
 

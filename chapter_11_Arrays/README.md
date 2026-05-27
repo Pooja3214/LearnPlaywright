@@ -15,6 +15,10 @@ Array creation, accessing elements, adding/removing items, searching, iterating,
 | `89_Array_Searching.js` | Searching elements in arrays |
 | `90_Array_Iterate.js` | Iterating through arrays |
 | `91_Transform_Array.js` | Transforming arrays |
+| `92_Arrays_Sorting.js` | Sorting arrays |
+| `93_Array_Slicing.js` | Slicing and extracting portions of arrays |
+| `94_Concat_array.js` | Concatenating arrays |
+| `95_Array_Checking.js` | Checking array properties and conditions |
 
 ## How to Run
 
