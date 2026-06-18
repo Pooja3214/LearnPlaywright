@@ -1,0 +1,29 @@
+let str="Hello, World!";
+console.log(str.toUpperCase());
+console.log(str.toLowerCase());
+
+console.log(str.trim());
+
+console.log(str.trimStart());
+console.log(str.trimEnd());
+
+let msg="Test: FAIL, Retry: FAIL";
+console.log(msg.replace("FAIL","PASS"));
+console.log(msg.replaceAll("FAIL","PASS"));
+console.log(msg.replace(/FAIL/g,"PASS"));
+
+//Concatenation
+"Hello" + " " +"World";
+"Hello".concat(" ", "World");
+`${"Hello"} ${"World"}`;
+
+let url = "https://app.vwo.con?app=pramod";
+console.log(url.replace("/app/g, qa"));
+
+//split
+let r="pass,fail,skip".split(", ")
+
+//join
+let part=["2024","03","07"];
+let date= part.join("-");
+console.log(date);
