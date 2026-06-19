@@ -18,6 +18,8 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_10_Loops`](chapter_10_Loops/README.md) | `for`, `while`, `do...while`, `for...of`, `for...in`, and loop-related interview questions |
 | [`chapter_11_Arrays`](chapter_11_Arrays/README.md) | Array creation, accessing, adding/removing, searching, iterating, and transforming |
 | [`chapter_12_Funtions`](chapter_12_Funtions/README.md) | Function declarations, expressions, arrow functions, parameters, and return values |
+| [`chapter_13_Strings`](chapter_13_Strings/README.md) | String creation, properties, searching, substring extraction, transformation, and conversion |
+| [`chapter_14_Objects`](chapter_14_Objects/README.md) | Object creation, methods, reference vs primitive, destructuring, spread, getters/setters |
 
 ## How to Run
 
