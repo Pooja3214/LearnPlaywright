@@ -20,6 +20,7 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_12_Funtions`](chapter_12_Funtions/README.md) | Function declarations, expressions, arrow functions, parameters, and return values |
 | [`chapter_13_Strings`](chapter_13_Strings/README.md) | String creation, properties, searching, substring extraction, transformation, and conversion |
 | [`chapter_14_Objects`](chapter_14_Objects/README.md) | Object creation, methods, reference vs primitive, destructuring, spread, getters/setters |
+| [`chapter_15_2D_Array`](chapter_15_2D_Array/README.md) | 2D arrays, nested arrays, matrix operations, and patterns |
 
 ## How to Run
 
