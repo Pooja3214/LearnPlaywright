@@ -18,6 +18,7 @@
 | `80_IQ.js` | More loop IQ / tricky questions |
 | `81_IQ.js` | Additional loop interview questions |
 | `82_IQ.js` | Advanced loop interview questions |
+| `83_Arrays.js` | Looping through arrays with different techniques |
 
 ## How to Run
 

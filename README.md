@@ -17,10 +17,23 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_09_UserInput`](chapter_09_UserInput/README.md) | Taking user input via browser `prompt`, Node.js `readline`, and `prompt-sync` |
 | [`chapter_10_Loops`](chapter_10_Loops/README.md) | `for`, `while`, `do...while`, `for...of`, `for...in`, and loop-related interview questions |
 | [`chapter_11_Arrays`](chapter_11_Arrays/README.md) | Array creation, accessing, adding/removing, searching, iterating, and transforming |
-| [`chapter_12_Funtions`](chapter_12_Funtions/README.md) | Function declarations, expressions, arrow functions, parameters, and return values |
+| [`chapter_12_Funtions`](chapter_12_Funtions/README.md) | Function declarations, expressions, arrow functions, parameters, closures, higher-order functions, and return values |
 | [`chapter_13_Strings`](chapter_13_Strings/README.md) | String creation, properties, searching, substring extraction, transformation, and conversion |
 | [`chapter_14_Objects`](chapter_14_Objects/README.md) | Object creation, methods, reference vs primitive, destructuring, spread, getters/setters |
 | [`chapter_15_2D_Array`](chapter_15_2D_Array/README.md) | 2D arrays, nested arrays, matrix operations, and patterns |
+| [`chapter_16_Callback`](chapter_16_Callback/README.md) | Callbacks: synchronous, asynchronous, callback hell (Pyramid of Doom), and real-world QA examples |
+
+## Practice Programs
+
+| Directory | Description |
+|-----------|-------------|
+| [`Programs`](Programs/README.md) | Standalone interview-style programs: HTTP codes, test case verdicts, bug severity, FizzBuzz, palindrome, anagrams, and pattern printing |
+
+## Interview Notes
+
+| File | Description |
+|------|-------------|
+| [`interview.md`](interview.md) | Common JavaScript interview concepts and explanations |
 
 ## How to Run
 
