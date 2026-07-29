@@ -22,6 +22,7 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_14_Objects`](chapter_14_Objects/README.md) | Object creation, methods, reference vs primitive, destructuring, spread, getters/setters |
 | [`chapter_15_2D_Array`](chapter_15_2D_Array/README.md) | 2D arrays, nested arrays, matrix operations, and patterns |
 | [`chapter_16_Callback`](chapter_16_Callback/README.md) | Callbacks: synchronous, asynchronous, callback hell (Pyramid of Doom), and real-world QA examples |
+| [`chapter_17_Promise`](chapter_17_Promise/README.md) | Promises: creation, chaining, `finally`, `Promise.all`, `Promise.allSettled`, and real-world QA/automation examples |
 
 ## Practice Programs
 
