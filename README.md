@@ -23,6 +23,7 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_15_2D_Array`](chapter_15_2D_Array/README.md) | 2D arrays, nested arrays, matrix operations, and patterns |
 | [`chapter_16_Callback`](chapter_16_Callback/README.md) | Callbacks: synchronous, asynchronous, callback hell (Pyramid of Doom), and real-world QA examples |
 | [`chapter_17_Promise`](chapter_17_Promise/README.md) | Promises: creation, chaining, `finally`, `Promise.all`, `Promise.allSettled`, and real-world QA/automation examples |
+| [`chapter_18_Async_Await`](chapter_18_Async_Await/README.md) | `async` / `await`, sequential vs parallel execution, error handling, and Playwright test examples |
 
 ## Practice Programs
 
