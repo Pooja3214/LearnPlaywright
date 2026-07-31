@@ -1,0 +1,23 @@
+{
+  "name": "learnplaywright",
+  "version": "1.0.0",
+  "description": "A personal learning repository covering core JavaScript concepts through organized chapters and hands-on `.js` files.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pooja3214/LearnPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pooja3214/LearnPlaywright/issues"
+  },
+  "homepage": "https://github.com/Pooja3214/LearnPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.1.2"
+  }
+}
