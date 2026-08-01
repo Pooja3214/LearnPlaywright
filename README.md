@@ -24,6 +24,8 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_16_Callback`](chapter_16_Callback/README.md) | Callbacks: synchronous, asynchronous, callback hell (Pyramid of Doom), and real-world QA examples |
 | [`chapter_17_Promise`](chapter_17_Promise/README.md) | Promises: creation, chaining, `finally`, `Promise.all`, `Promise.allSettled`, and real-world QA/automation examples |
 | [`chapter_18_Async_Await`](chapter_18_Async_Await/README.md) | `async` / `await`, sequential vs parallel execution, error handling, and Playwright test examples |
+| [`chapter_19_Playwright_Basics`](chapter_19_Playwright_Basics/README.md) | Playwright basics: browser automation, selectors, assertions, and test structure |
+| [`chapter_20_Export_Import`](chapter_20_Export_Import/README.md) | ES6 modules: `export`, `export default`, named imports, default imports, and aliasing with `as` |
 
 ## Practice Programs
 
