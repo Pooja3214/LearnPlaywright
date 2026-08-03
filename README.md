@@ -27,6 +27,11 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_19_Playwright_Basics`](chapter_19_Playwright_Basics/README.md) | Playwright basics: browser automation, selectors, assertions, and test structure |
 | [`chapter_20_Export_Import`](chapter_20_Export_Import/README.md) | ES6 modules: `export`, `export default`, named imports, default imports, and aliasing with `as` |
 | [`chapter_21_Classes_and_Objects`](chapter_21_Classes_and_Objects/README.md) | JavaScript classes, constructors, `this`, private fields (`#`), static properties, and static methods |
+| [`chapter_22_Encapsulation`](chapter_22_Encapsulation/README.md) | Data hiding with private fields (`#`), getters, setters, and controlled access |
+| [`chapter_23_Inheritance`](chapter_23_Inheritance/README.md) | Single, multi-level, and hierarchical inheritance; `extends`, `super()`, and method overriding |
+| [`chapter_24_Polymorphism`](chapter_24_Polymorphism/README.md) | Method overriding and runtime polymorphism in JavaScript classes |
+| [`chapter_25_Interview_Questions`](chapter_25_Interview_Questions/README.md) | Interview-style exercises: constructors, `this`, method chaining, private fields, and defaults |
+| [`chapter_26_Typescript`](chapter_26_Typescript/README.md) | TypeScript fundamentals — type annotations, interfaces, generics, and compilation |
 
 ## Practice Programs
 
