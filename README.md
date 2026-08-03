@@ -32,6 +32,7 @@ A personal learning repository covering core JavaScript concepts through organiz
 | [`chapter_24_Polymorphism`](chapter_24_Polymorphism/README.md) | Method overriding and runtime polymorphism in JavaScript classes |
 | [`chapter_25_Interview_Questions`](chapter_25_Interview_Questions/README.md) | Interview-style exercises: constructors, `this`, method chaining, private fields, and defaults |
 | [`chapter_26_Typescript`](chapter_26_Typescript/README.md) | TypeScript fundamentals — type annotations, interfaces, generics, and compilation |
+| [`chapter_27_TypeScript_Interface`](chapter_27_TypeScript_Interface/README.md) | TypeScript interfaces — object shapes, optional/readonly properties, and extending interfaces |
 
 ## Practice Programs
 
